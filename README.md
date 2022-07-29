@@ -11,7 +11,7 @@ In this assignment we sused Machine Learning and Neural Networks to help predict
 
 #### Compiling, Training, and Evaluating the Model
 * How many neurons, layers, and activation functions did you select for your neural network model, and why My original attempt had two hidden layes with 8 and 5 neruons each and a activition of relu for input and sigmoid for output. In this model I saw a accuracy of 50%. Using this as my starting place I tried a handful of other options including adding an additional layer, adding additional neurons, increasing epcochs and changing activation model.
-![ScreenShot](\\https://github.com/Cayswartz/Neural_Network_Charity_Analysis/blob/653efd6f19acc70edc2b0bdb65a05ad9970ca1d6/Screen%20Shot%202022-07-29%20at%2011.34.52%20AM.png)
+![ScreenShot](https://github.com/Cayswartz/Neural_Network_Charity_Analysis/blob/653efd6f19acc70edc2b0bdb65a05ad9970ca1d6/Screen%20Shot%202022-07-29%20at%2011.34.52%20AM.png)
 
 
 
